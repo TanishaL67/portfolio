@@ -1,4 +1,19 @@
-title: Tanisha Lohchab
+title: <p align="center"> Tanisha Lohchab </p>
+#logo: assets/img/WhatsApp Image 2022-04-11 at 6.29.36 PM.jpeg
+
+description:
+  <p align="center">
+  <a href="http://www.linkedin.com/in/tanishal67/">LinkedIn</a> |
+  <a href="https://docs.google.com/document/d/1z6_bCWqQHMcRyyF6HlcbaE5j4xNSSBtV/edit?usp=sharing&ouid=101488203903449873703&rtpof=true&sd=true">Resume</a> |
+  <a href="https://github.com/TanishaL67">GitHub</a>
+  
+  <br>
+  Hi, I'm a Data Scientist. Working on multiple projects which includes Nural Networks, Object Detection, 
+  Data analysis using scikit learn, tensorflow, pyspark & more. I’m looking forward to work on various peojects in Healthcare and Timeseries.
+  <br>
+ 
+  <br>
+  </p>
 #logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
