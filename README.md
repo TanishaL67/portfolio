@@ -1,4 +1,4 @@
-# # Data Scientist
+#Data Scientist
 
 #### Technical Skills: 
 - Core Skills: Machine Learning, Business Intelligence, Data Visualization, Statistical Analysis, Data Mining, Hypothesis Testing, Mathematical Modelling, Predictive Modelling, Data Warehousing, Object-Oriented Programming, Extract, Transform, Load (ETL).
